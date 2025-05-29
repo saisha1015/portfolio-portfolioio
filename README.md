@@ -43,7 +43,7 @@ The program calls the appropriate function based on the user's input and display
 The program continues to display the menu of options and allow the user to perform multiple calculations until the user chooses to quit the program.
 
 Project 6: Magic8Ball
-Summary:We created a program that generates random answers from a predefined list of responses and provide a user-friendly interface for asking questions and receiving answers.
+Summary: We created a program that generates random answers from a predefined list of responses and provide a user-friendly interface for asking questions and receiving answers.
 Key Details: 
 Prompts user to ask a question
 Randomly select and display a response
