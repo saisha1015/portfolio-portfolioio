@@ -50,3 +50,9 @@ Randomly select and display a response
 Creates a loop so that the user can ask again
 
 Project 7:
+Summary: We created a program that displays a random image from a selected theme each time the user desires a recommendation. The images was stored as URLs in an array display and the description of each image based on which one is randomly chosen.  
+Key Details:
+Defined a function called open_image with a url parameter for the image address
+Called my function with an image URL
+Made sure to cite my source
+
